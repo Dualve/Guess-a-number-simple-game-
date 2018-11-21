@@ -1,11 +1,3 @@
-#lab №5(Cycles construction and interation algorithms. Cycle while)int = int(input("Введите 2ую границу диапозона: ")
-#The main task(Try ro Guess the number)
-
-#Authors Dubodelov A.V. and Lebed A.S.
-#Version v.1.0.0
-#Group 10701118
-#Date 01/10/2018
-
 from random import randint
 def game():
      diap1 = int(input("Введите 1ую границу диапазона: "))
